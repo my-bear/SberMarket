@@ -1,0 +1,10 @@
+*.DS_Store
+
+*.key
+*.h5
+*.ipynb_checkpoints
+*.pb
+*.csv
+*.index
+*.data-00000-of-00001
+checkpoint
